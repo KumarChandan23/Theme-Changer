@@ -1,0 +1,19 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    text-align: center;
+}
+#colorContainer{
+    width: 100px;
+    height: 100px;
+}
+body, .textContent {
+    transition: all 0.3s ease;
+}
